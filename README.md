@@ -1,4 +1,5 @@
 # Vision Journal Club Consortium
+Or, a list of papers we should all read.
 
 ## Stanford contributed
 
