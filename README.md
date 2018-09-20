@@ -3,10 +3,10 @@ Or, a list of papers we should all read.
 
 ## Stanford contributed
 
-2018/08/22
+* **09/26/2018**, Roth, Z. N., Heeger, D. J., & Merriam, E. P. (2018). Stimulus vignetting and orientation selectivity in human visual cortex. eLife, 7, e37241.
+https://elifesciences.org/articles/37241
 
-Lu, Y., Yin, J., Chen, Z., Gong, H., Liu, Y., Qian, L., ... & Wang, W. (2018). Revealing detail along the visual hierarchy: neural clustering preserves acuity from V1 to V4. Neuron, 98(2), 417-428.
-
+* **08/22/2018**, Lu, Y., Yin, J., Chen, Z., Gong, H., Liu, Y., Qian, L., ... & Wang, W. (2018). Revealing detail along the visual hierarchy: neural clustering preserves acuity from V1 to V4. Neuron, 98(2), 417-428.
 https://www.cell.com/neuron/abstract/S0896-6273(18)30186-7
 
 ## NYU contributed
