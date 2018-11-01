@@ -3,6 +3,9 @@ Or, a list of papers we should all read.
 
 ## Stanford contributed
 
+* **12/5/2018**, Samonds, J. M., Geisler, W. S., & Priebe, N. J. (2018). Natural image and receptive field statistics predict saccade sizes. Nature Neuroscience, 1.
+https://www.nature.com/articles/s41586-018-0649-2
+
 * **09/26/2018**, Roth, Z. N., Heeger, D. J., & Merriam, E. P. (2018). Stimulus vignetting and orientation selectivity in human visual cortex. eLife, 7, e37241.
 https://elifesciences.org/articles/37241
 
