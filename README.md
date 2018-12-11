@@ -3,6 +3,9 @@ Or, a list of papers we should all read.
 
 ## Stanford contributed
 
+* **1/9/2018**,Yu, C. P., Liu, H., Samaras, D., & Zelinsky, G. (2018). Modeling Attention Control Using A Convolutional Neural Network Designed After The Ventral Visual Pathway. bioRxiv, 473124.
+https://www.biorxiv.org/content/early/2018/11/20/473124
+
 * **12/5/2018**, Samonds, J. M., Geisler, W. S., & Priebe, N. J. (2018). Natural image and receptive field statistics predict saccade sizes. Nature Neuroscience, 1.
 https://www.nature.com/articles/s41586-018-0649-2
 
